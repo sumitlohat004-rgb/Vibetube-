@@ -46,14 +46,14 @@ import {
 
 // Firebase Config
 const firebaseConfig = {
-  apiKey: "AIzaSyAWfJv870D2SK8avO4PohFZfNl6VWzpgrk",
-  authDomain: "vibetube-218de.firebaseapp.com",
-  databaseURL: "https://vibetube-218de-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "vibetube-218de",
-  storageBucket: "vibetube-218de.firebasestorage.app",
-  messagingSenderId: "438992891226",
-  appId: "1:438992891226:web:3f7a2c81cdfdf38d3b1763",
-  measurementId: "G-ZTLFE324YJ"
+  apiKey: "AIzaSyDHPDjYrK-j8jjljX-djpbsvkbVbrffjFY",
+  authDomain: "vibetube-v3.firebaseapp.com",
+  databaseURL: "https://vibetube-v3-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "vibetube-v3",
+  storageBucket: "vibetube-v3.firebasestorage.app",
+  messagingSenderId: "1019551957305",
+  appId: "1:1019551957305:web:e26f6d6fc03b4e978a68e8",
+  measurementId: "G-9CDR43TL78"
 };
 
 // Cloudinary Config (Free Video Hosting)
